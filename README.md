@@ -4,7 +4,7 @@
 <h1 align="center">Bora Codar 04</h1>
 
 <h2 align="center">Rocketchat</h2>
-<img src="./.github/app.png" alt="Bora Codar 05" />
+<img src="./.github/app.PNG" alt="Bora Codar 05" />
 
   &#xa0;
 <p align="center">
